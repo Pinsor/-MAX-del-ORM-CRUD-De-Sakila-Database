@@ -1,6 +1,6 @@
 Para verificar el funcionanmiento completo del programa compile directamente desde: App.java
 
-es mi recomendacion porque desde ahi puedes apreciar todo lo que hice. 
+Es mi recomendacion porque desde ahi puedes apreciar todo lo que hice. 
 
 # 🎬 Proyecto Sakila - Sistema de Gestión de Películas
 
